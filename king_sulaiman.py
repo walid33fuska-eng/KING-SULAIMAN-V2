@@ -1,5 +1,8 @@
 import psychoweapon
 psychoweapon.activate()
+
+import psychoweapon
+psychoweapon.activate()
 import os
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
 #!/data/data/com.termux/files/usr/bin/python3
